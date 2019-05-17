@@ -40,9 +40,15 @@ An event is when the browser can detect all the interactions a user has with the
 
 3. What is an event listener?
 
+An event listner is when we chose a specific element to listen to specific event and fires a callback when that event                                          occurs.
+
 4. Why would we convert a NodeList into an Array?
 
+We would convert a Nodelist into an Array so we can gain access to the few array methods that can be used on them.
+
 5. What is a component?
+
+A component is made up of javascript, css, and HTML for use in modern application development.
 
 ### Git Set up
 
